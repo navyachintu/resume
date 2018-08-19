@@ -1,0 +1,54 @@
+{
+	"details":{
+	"image":"icon.png",
+	"name":"navya",
+	"phnno":"+91-9848515885",
+	"email":"navyadokku1234@gmail.com",
+	"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+	"info":"i got job."
+	},
+	"education":[
+	{
+	"qualification":"B.tech",
+	"institute":"vignan's nirula college",
+	"year":"2016-2020",
+	"percentage":"80%"
+	},
+	{
+	"qualification":"inter",
+	"college":"srichaitanya",
+	"year":"2014-2016",
+	"percentage":"90%"
+	},
+	{
+	"qualification":"ssc",
+	"school":"csrzp high school",
+	"year":"2014",
+	"percentage":"80%"
+	}
+	],
+	"skills":[
+		{
+		"title":"programming languages",
+		"info":["c","c++","java","python","r"]
+	},
+	{
+		"title":"Database",
+		"info":["sql","mysql","oracle"]
+	},
+	{
+		"title":"operating system",
+		"info":["windows","unix","linux"]
+	}
+],
+	"achievements":[
+		{
+			"title":"i got certified in debate"
+		},
+		{
+			"title":"got certified in mac"
+		}
+	]
+}
